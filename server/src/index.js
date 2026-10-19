@@ -30,7 +30,7 @@ app.use(helmet());
 
 // Restrict cross-origin browser requests.
 const allowedOrigins = (
-  process.env.CLIENT_URL || "http://localhost:5173"
+  process.env.CLIENT_URL || "http://localhost:5173"||"https://week-7-notes-app.vercel.app"
 ).split(",").map((url) => url.trim());
 
 app.use(

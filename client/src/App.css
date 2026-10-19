@@ -257,7 +257,7 @@ select:focus-visible {
 
 .category-link:hover,
 .category-link.selected {
-  background: #23466f;
+  background: #193350;
   color: white;
 }
 
