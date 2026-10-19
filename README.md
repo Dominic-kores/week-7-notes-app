@@ -138,11 +138,11 @@ GET /api/notes?tag=security
 
 ## Deployment
 
-**Live Frontend:** Add deployed Vercel URL
+**Live Frontend:** [https://week-7-notes-app.vercel.app]
 
-**Backend API:** [https://week-7-notes-app-production.up.railway.app/]
+**Backend API:** [https://week-7-notes-app-production.up.railway.app]
 
-**Live Pages:** [https://dominic-kores.github.io/week-7-notes-app/]
+**Live Pages:** [https://dominic-kores.github.io/week-7-notes-app]
 
 
 
